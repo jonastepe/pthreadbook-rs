@@ -1,0 +1,9 @@
+[package]
+name = "pthreadbook-rs"
+version = "0.1.0"
+authors = ["Jonas Tepe <jonasprogrammer@gmail.com>"]
+
+[[bin]]
+name = "alarm"
+path = "src/alarm.rs"
+
