@@ -7,3 +7,10 @@ authors = ["Jonas Tepe <jonasprogrammer@gmail.com>"]
 name = "alarm"
 path = "src/alarm.rs"
 
+[[bin]]
+name = "alarm_fork"
+path = "src/alarm_fork.rs"
+
+[dependencies]
+libc = "0.2.11"
+
