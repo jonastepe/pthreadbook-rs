@@ -11,6 +11,10 @@ path = "src/alarm.rs"
 name = "alarm_fork"
 path = "src/alarm_fork.rs"
 
+[[bin]]
+name = "alarm_thread"
+path = "src/alarm_thread.rs"
+
 [dependencies]
 libc = "0.2.11"
 
