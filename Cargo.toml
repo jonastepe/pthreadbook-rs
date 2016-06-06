@@ -15,6 +15,10 @@ path = "src/alarm_fork.rs"
 name = "alarm_thread"
 path = "src/alarm_thread.rs"
 
+[[bin]]
+name = "alarm_mutex"
+path = "src/alarm_mutex.rs"
+
 [dependencies]
 libc = "0.2.11"
 
