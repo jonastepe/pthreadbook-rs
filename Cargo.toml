@@ -23,6 +23,10 @@ path = "src/alarm_mutex.rs"
 name = "trylock"
 path = "src/trylock.rs"
 
+[[bin]]
+name = "cond"
+path = "src/cond.rs"
+
 [dependencies]
 libc = "0.2.11"
 
