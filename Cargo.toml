@@ -27,6 +27,10 @@ path = "src/trylock.rs"
 name = "cond"
 path = "src/cond.rs"
 
+[[bin]]
+name = "alarm_cond"
+path = "src/alarm_cond.rs"
+
 [dependencies]
 libc = "0.2.11"
 
