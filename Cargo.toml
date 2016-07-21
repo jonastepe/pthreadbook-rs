@@ -31,6 +31,10 @@ path = "src/cond.rs"
 name = "alarm_cond"
 path = "src/alarm_cond.rs"
 
+[[bin]]
+name = "pipe"
+path = "src/pipe.rs"
+
 [dependencies]
 libc = "0.2.11"
 
