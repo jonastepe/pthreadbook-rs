@@ -39,6 +39,10 @@ path = "src/pipe.rs"
 name = "crew"
 path = "src/crew.rs"
 
+[[bin]]
+name = "server"
+path = "src/server.rs"
+
 [dependencies]
 libc = "0.2.11"
 
