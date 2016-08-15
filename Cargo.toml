@@ -43,6 +43,10 @@ path = "src/crew.rs"
 name = "server"
 path = "src/server.rs"
 
+[[bin]]
+name = "barrier"
+path = "src/barrier.rs"
+
 [dependencies]
 libc = "0.2.11"
 
