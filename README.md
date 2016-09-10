@@ -4,7 +4,7 @@ The purpose is to reimplement the examples from the book [Programming with POSIX
 ## Why?
 I like Rust and C (especially in the context of Linux system programming) and want to learn more about multi-threaded programming in Rust and C. That is a nice way to combine all those goals.
 
-Also, I am always looking for feedback from people who are more experienced than I. So, if you want to give me some advice on how to make the examples better or more idiomatic Rust, please do.
+Also, I am always looking for feedback from people who are more experienced than I. So, if you want to give me some advice on how to make the examples better or more idiomatic Rust, please do. As of now, I think the code is pretty ugly. I am still learning. It takes some time with a new programming language to be able to write good idiomatic code.
 
 ## How to run the examples?
 The project contains a binary for every example program. To run each one individually:
