@@ -51,6 +51,10 @@ path = "src/barrier.rs"
 name = "rwlock"
 path = "src/rwlock.rs"
 
+[[bin]]
+name = "workqueue"
+path = "src/workqueue.rs"
+
 [dependencies]
 libc = "0.2.11"
 rand = "0.3.14"
